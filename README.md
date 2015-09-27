@@ -1,0 +1,1 @@
+Solutions for the Learnyounode functional programming workshop
